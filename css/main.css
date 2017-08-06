@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+body {
+  background: #647982;
+  font-family: 'Permanent Marker', cursive;
+}
+.navbar {
+  border-radius: 0;
+}
+.row {
+  margin: 0 auto;
+}
+.box {
+  border-radius: 10%;
+  width: 10%;
+  height: auto;
+  padding: 10%;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 0;
+  font-size: 1.3em;
+}
